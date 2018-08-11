@@ -1,4 +1,5 @@
-# Dataquest Data Scientist Path: Python Programming Intermediate Programming Project
+# Dataquest Data Scientist Path: Python Programming Intermediate Course Project
+
 ## US Gun Deaths Guided Project
 
 In this project, you'll be working with Jupyter notebook, and analyzing data on gun deaths in the US. By the end, you'll have a notebook that you can add to your portfolio or build on top of on your own. If you need help at any point, you can consult our solution notebook here.
