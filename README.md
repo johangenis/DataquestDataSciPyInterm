@@ -6,7 +6,7 @@ In this project, you'll be working with Jupyter notebook, and analyzing data on 
 The dataset came from FiveThirtyEight, and can be found here. The dataset is stored in the guns.csv file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim. Here are the first few rows of the dataset:
 
 year | month | intent | police | sex | age | race | hispanic | place | education
-----   -----   ------   ------   ---   ---   ----   --------   -----   ---------
+---- | ----- | ------ | ------ | --- | --- | ---- | -------- | ----- | ---------
 2012 | 1 | Suicide | 0 | M | 34.0 |	Asian/Pacific Islander | 100 |	Home |	4.0
 2012 | 1 | Suicide | 0 | F | 21.0 | White | 100	Street | 3.0
 2012 | 1 | Suicide | 0 | M | 60.0 | White | 100	Other specified | 4.0
