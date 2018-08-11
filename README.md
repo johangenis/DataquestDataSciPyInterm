@@ -32,4 +32,6 @@ As you can see above, the first row of the data is a header row, which tells you
   * 3:  Some College
   * 4:  At least graduated from College
   * 5:  Not available
+
+
 In this project, we'll explore the dataset, and try to find patterns in the demographics of the victims.
